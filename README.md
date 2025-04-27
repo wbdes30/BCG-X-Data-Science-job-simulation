@@ -1,7 +1,7 @@
 # BCG-X-Data-Science-job-simulation
 Use data to advise client, PowerCo, on how to retain their customers with the team at BCG X
 ### Client Overview
-PowerCo is a major gas and electricity utility that supplies to small and medium sized enterprises. The energy market has had a lot of change in recent years and there are more options than ever for customers to choose from. PowerCo are concerned about their customers leaving for better offers from other energy providers. When a customer leaves to use another service provider, this is called **churn**. This is becoming a big issue for PowerCo and they have engaged BCG to help diagnose the reason why their customers are churning.
+PowerCo is a major utility company that supplies gas and electricity to small and medium-sized enterprises. In recent years, the energy market has undergone significant changes, and customers now have more options than ever. PowerCo is worried about losing customers to other energy providers that may offer better deals. This has become a significant issue for the company, prompting them to engage BCG for assistance in diagnosing the reasons behind customer churn.
 
 ### Mission:
 Investigate the drivers for PowerCo’s customer churn.
