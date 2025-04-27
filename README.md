@@ -5,7 +5,7 @@ PowerCo is a major gas and electricity utility that supplies to small and mediu
 
 ### Mission:
 Investigate the drivers for PowerCo’s customer churn.
-BCG X is transforming businesses using data science to help companies generate competitive advantage. To do this, we typically follow a 5-step methodology:
+BCG X is transforming businesses using data science to help companies generate competitive advantage. To do this, BCG typically follow a 5-step methodology:
 - **Business understanding & problem framing:** what is the context of this problem and why are they trying to solve it?
 - **Exploratory data analysis & data cleaning:** what data are we working with, what does it look like and how can we make it better?
 - **Feature engineering:** can we enrich this dataset using our own expertise or third party information?
