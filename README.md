@@ -1,4 +1,4 @@
-# BCG-X-Data-Science-job-simulation
+# BCG X Data Science job simulation
 Use data to advise client, PowerCo, on how to retain their customers with the team at BCG X
 ### Client Overview
 PowerCo is a major utility company that supplies gas and electricity to small and medium-sized enterprises. In recent years, the energy market has undergone significant changes, and customers now have more options than ever. PowerCo is worried about losing customers to other energy providers that may offer better deals. This has become a significant issue for the company, prompting them to engage BCG for assistance in diagnosing the reasons behind customer churn.
